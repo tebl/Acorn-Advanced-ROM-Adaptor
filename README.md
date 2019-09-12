@@ -1,0 +1,1 @@
+Acorn Advanced ROM Adaptor
