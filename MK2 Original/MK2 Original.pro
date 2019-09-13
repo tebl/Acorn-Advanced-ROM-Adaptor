@@ -1,4 +1,4 @@
-update=11/09/2019 14:42:24
+update=13/09/2019 11:09:42
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=D:/owncloud/Documents/Projects/Acorn Advanced ROM Adaptor/common/library/acorn_cartridge
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=export/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
