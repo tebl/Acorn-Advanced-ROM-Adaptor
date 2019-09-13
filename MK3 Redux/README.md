@@ -6,8 +6,12 @@ Recently picked up something called an Advanced ROM MKII Adaptor, a 16K sideways
 
 The differences from the original design is that I've replaced the 27128/27C128, that are a pain to track down and pay for, with the plentiful 27C512. This bumps the capacity of the cartridge from 2x16K to 8x16K though addressing is kept the same, the remaining slots are available by changing the jumper settings with the computer is unplugged. I could have gone for chips that are even larger in capacity, but I wanted something that is easy enough for anyone with a soldering iron to fix up for themselves and there really aren't all that much ROM-based software available so even with the limited 8 slots you'll still fit in most of the desirable titles anyway. Smaller EPROMs such as the 27C64 or 27C256 can still be used, just keep the A14/15 lines unjumpered.
 
+![MKIII Redux PCB Preview](https://github.com/tebl/Acorn-Advanced-ROM-Adaptor/raw/master/Gallery/MK3%20Redux%20Preview.png)
+
+
 # Schematic
 The supplied KiCad files should be sufficient as both a schematic and as a  starting point for ordering PCBs (basically you could just zip the contents of the export folder and upload that on a fabrication site), the schematic is also available in [PDF-format](https://github.com/tebl/Acorn-Advanced-ROM-Adaptor/raw/master/MK3%20Redux/export/MK3%20Redux.pdf) and this is what you'll need to print and work your way through this things don't work as expected after assembly.
+
 
 # BOM
 Most parts should be easy to get a hold of from your favourite local electronic component shop, but given that I don't have access to such shops where I live so everything was based on whatever I could get cheapest from ebay/AliExpress (free shipping, plan on usually waiting 3-4 weeks though). The list below should be everything you'll need in addition to a workable soldering iron and some 60/40 soldering tin. Other tools needed for this project is an EPROM-ereaser as well as an EPROM-programmer for the two ICs (I use MiniPro TL866 for both).
