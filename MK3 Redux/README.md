@@ -25,4 +25,4 @@ Some vendors will have the same ICs in different form factors, the ones you want
 | R1           | 10k ohm resistor                      |     1 |
 | U1,U2        | 27C512 DIP-28                         |     2 |
 | U3           | 74HCT00 DIP-16                        |     1 |
-|              | Male 40-pin header (break to size)    |     1 |
+|              | Male 2x40-pin header (break to size)  |     1 |
